@@ -12,6 +12,6 @@ Link to [LeetCode](https://leetcode.com/)
 
 This repository contains all the ***Free*** *LeetCode Database Questions*.
 
-All my solutions are based on MySQL syntax, sorted by easy -> medium -> hard.
+All my solutions are based on MySQL syntax, sorted by Easy -> Medium -> Hard.
 
 Click [Here](https://github.com/Nivshiz/LeetCode-SQL/blob/main/solutions.sql) to view my solutions.
